@@ -1,1 +1,5 @@
 Hi I am back, I want to do something to my nation INDIA
+<<<<<<< HEAD
+=======
+Git PW; GitPython123
+>>>>>>> Upkdate README.md
